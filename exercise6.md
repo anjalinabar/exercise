@@ -1,1 +1,0 @@
-This is ex 6 file
